@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Portfolio Website
+
+Welcome to my portfolio website built using React, Next.Js, Framer Motion & Tailwind CSS!
+
+## Overview
+
+This repository contains the code for my personal portfolio website, showcasing my projects, skills, and experiences as an aspiring developer/designer. The website is built using Framer Motion, Tailwind CSS & React & Next.js.
+
+![Thumbnail](/sec_port.png)
+
+## Features
+
+- **Responsive Design**: The website is designed to adapt seamlessly to various screen sizes, ensuring optimal viewing experience across devices.
+- **Project Showcase**: Explore the projects I've worked on, including web applications, mobile apps, and other software projects. Each project is presented with a brief description, key technologies used, and links to live demos or GitHub repositories.
+- **Skills & Expertise**: Learn about my technical skills, programming languages, frameworks, and tools I'm proficient in. Whether it's front-end development, back-end development, or design, I'm passionate about continuously learning and improving.
+- **About Me**: Get to know me better! Discover my background, education, professional experience, interests, and what drives me as a developer.
+- **Contact Information**: Interested in collaborating on a project or just want to say hello? Reach out to me through the provided contact information, including email and social media links.
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running follow these simple steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository
+   ```sh
+   git clone https://github.com/Prashant162003/My-First-Portfolio.git
+   
+2. Navigate into the project directory
+   ```sh
+   cd My-First-Portfolio
+   
+3. Install dependencies
+   ```sh
+   npm i
+   
+4. Start the development server
+   ```sh
+   npm run dev
+   
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Feedback
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+I've put a lot of effort into creating this portfolio, and I'm eager to hear your feedback! Whether you're a fellow developer, potential employer, or just a curious visitor, feel free to explore the website, suggest improvements, or drop me a message. Let's connect and build something amazing together! 🌟
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you find this project helpful or interesting, don't forget to star the repository and share it with your network.
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For any inquiries or collaboration opportunities, you can reach me via:
+- Email: [Get In touch](mailto:prashant.sagar.shakya@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/prashant-shakya03)

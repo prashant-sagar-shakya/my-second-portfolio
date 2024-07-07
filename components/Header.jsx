@@ -12,7 +12,7 @@ const Header = () => {
         {/* Logo */}
         <Link href="/">
           <h1 className="text-4xl font-semibold">
-            Prashant Shakya<span className="text-accent">.</span>
+            Devfolio<span className="text-accent">.</span>
           </h1>
         </Link>
         {/* Desktop Nav & Hire Me Button */}
@@ -24,7 +24,7 @@ const Header = () => {
         </div>
         {/* Mobile Nav  */}
         <div className="xl:hidden">
-          <MobileNav/>
+          <MobileNav />
         </div>
       </div>
     </header>
