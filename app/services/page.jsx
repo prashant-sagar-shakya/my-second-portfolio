@@ -8,25 +8,25 @@ const services = [
   {
     num: "01",
     title: "Web Development",
-    description: "lorem ipsum dolor sit amet",
+    description: "Mastered MERN & JAM Stack Development to Build Modern Web Applications.",
     href: "#",
   },
   {
     num: "02",
-    title: "Mobile App Development",
-    description: "lorem ipsum dolor sit amet",
+    title: "Computer Vision",
+    description: "Created Some Awesome Computer Vision Projects Using OpenCV Which Works by Detecting Your Hand Movements (Gestures).",
     href: "#",
   },
   {
     num: "03",
     title: "UI/UX Design",
-    description: "lorem ipsum dolor sit amet",
+    description: "Designed Some Delightful UI/UX for Mobile and Web-Apps Using React and React-Native.",
     href: "#",
   },
   {
     num: "04",
-    title: "Product Strategy",
-    description: "lorem ipsum dolor sit amet",
+    title: "DevOps Engineering",
+    description: "Built Some DevOps Projects Using Docker and Kubernetes, also have a good understanding of CI/CD and AWS.",
     href: "#",
   },
 ];
