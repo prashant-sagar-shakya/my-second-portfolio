@@ -63,7 +63,8 @@ const experience = {
 // About Data
 const about = {
   title: "About Me",
-  description: "Here is a brief description of myself. It's all about engaging with me or reaching out.",
+  description:
+    "Here is a brief description of myself. It's all about engaging with me or reaching out.",
   info: [
     {
       fieldName: "Name",
@@ -83,7 +84,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "therealprashantshakya@gmail.com",
+      fieldValue: "prashant.sagar.shakya@gmail.com",
     },
     {
       fieldName: "Freelance",
