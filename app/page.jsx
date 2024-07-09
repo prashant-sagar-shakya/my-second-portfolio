@@ -28,9 +28,13 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2 py-[17px]"
               >
-                <span className="lg:text-[18px] md:text-[15px] sm:text-[13px]">
+                <a
+                  className="lg:text-[18px] md:text-[15px] sm:text-[13px]"
+                  href="/assets/resume/CV.pdf"
+                  download
+                >
                   Download CV
-                </span>
+                </a>
                 <FiDownload className="text-xl" />
               </Button>
               <div className="mb-8 xl:mb-0">
@@ -47,7 +51,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <Stats/>
+      <Stats />
     </section>
   );
 };
