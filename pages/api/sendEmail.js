@@ -27,14 +27,14 @@ export default async function handler(req, res) {
         text: emailContent,
       });
 
-      console.log("Email sent successfully");
+      // console.log("Email sent successfully");
       res.status(200).json({ success: true });
     } catch (error) {
-      console.error("Failed to send email:", error.message);
+      // console.error("Failed to send email:", error.message);
       res.status(500).json({ success: false, error: error.message });
     }
   } else {
-    console.log("Method not allowed");
+    // console.log("Method not allowed");
     res.status(405).json({ message: "Method not allowed" });
   }
 }
