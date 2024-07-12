@@ -81,30 +81,6 @@ const projects = [
   },
   {
     num: "04",
-    category: "Full Stack",
-    title: "EcomEdge",
-    description:
-      "An e-commerce site aims to create a full-featured ecommerce platform for providing a seamless shopping experience.",
-    stack: [
-      {
-        name: "React.js",
-      },
-      {
-        name: "Express.js",
-      },
-      {
-        name: "Node.js",
-      },
-      {
-        name: "MongoDB",
-      },
-    ],
-    image: "/assets/work/ecomedge.png",
-    live: "",
-    github: "https://github.com/prashant-sagar-shakya/EcomEdge",
-  },
-  {
-    num: "05",
     category: "Frontend",
     title: "Portfolio",
     description:
@@ -125,7 +101,7 @@ const projects = [
     github: "https://github.com/prashant-sagar-shakya/My-First-Portfolio",
   },
   {
-    num: "06",
+    num: "05",
     category: "Full Stack",
     title: "Imaginify",
     description:
